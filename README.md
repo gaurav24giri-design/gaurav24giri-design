@@ -59,6 +59,12 @@ I enjoy learning by building practical projects, experimenting with technologies
   <img src="./profile/stats.svg" width="500" alt="GitHub Statistics">
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="./profile/streak.svg" width="500" alt="GitHub Streak">
+</p>
+
 
 ```text
 Python
