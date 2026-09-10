@@ -72,10 +72,16 @@ I enjoy learning by building practical projects, experimenting with technologies
 
 ---
 
-## 📈 GitHub Activity Graph
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav24giri-design&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=gaurav24giri-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=2&column=6"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 
