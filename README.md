@@ -53,6 +53,12 @@ I enjoy learning by building practical projects, experimenting with technologies
 
 >
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" width="500" alt="GitHub Statistics">
+</p>
+
 
 ```text
 Python
