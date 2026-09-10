@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+GAURAV+GIRI;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+Learner;Data+Science+Explorer" />
+</p>
+
+<p align="center">
+  <b>🚀 Building • Learning • Exploring AI & Machine Learning</b>
+</p>
+
+
+
+
+
+
+
 <!-- ================= HERO ================= -->
 
 <picture>
