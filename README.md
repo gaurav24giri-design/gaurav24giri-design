@@ -70,6 +70,14 @@ I enjoy learning by building practical projects, experimenting with technologies
   <img src="./profile/top-langs.svg" width="500" alt="Top Languages">
 </p>
 
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav24giri-design&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
+</p>
+
 
 ```text
 Python
