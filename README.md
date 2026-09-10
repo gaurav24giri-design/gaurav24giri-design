@@ -51,11 +51,14 @@ I enjoy learning by building practical projects, experimenting with technologies
 ### 💻 Programming & Development
 
 
+>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav24giri-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500" />
+  <img src="./profile/stats.svg" width="500" alt="GitHub Statistics">
 </p>
+
 
 ```text
 Python
