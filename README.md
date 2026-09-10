@@ -54,9 +54,8 @@ I enjoy learning by building practical projects, experimenting with technologies
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav24giri-design&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav24giri-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500" />
 </p>
-
 
 ```text
 Python
