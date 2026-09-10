@@ -53,29 +53,6 @@ I enjoy learning by building practical projects, experimenting with technologies
 
 >
 
-name: GitHub Stats
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  stats:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          github_user_name: gaurav24giri-design
-
 
 ```text
 Python
