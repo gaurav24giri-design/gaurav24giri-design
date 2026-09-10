@@ -64,6 +64,11 @@ I enjoy learning by building practical projects, experimenting with technologies
 <p align="center">
   <img src="./profile/streak.svg" width="500" alt="GitHub Streak">
 </p>
+## 💻 Top Languages
+
+<p align="center">
+  <img src="./profile/top-langs.svg" width="500" alt="Top Languages">
+</p>
 
 
 ```text
