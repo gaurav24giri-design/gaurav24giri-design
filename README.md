@@ -186,3 +186,30 @@ A responsive Facebook-inspired website clone built to practice frontend web deve
 #### 🔗 Project
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gaurav24giri-design/fb-clone-website)
+---
+
+## 🎓 Education
+
+### 🏫 MIT Academy of Engineering (MITAOE)
+
+**Bachelor of Technology (B.Tech) — Information Technology**
+
+📍 Alandi, Pune, Maharashtra  
+📚 2nd Year Undergraduate
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 Cisco Internship
+
+**Intern — Cisco**
+
+Gained practical exposure to a professional technology environment and strengthened my understanding of industry practices, technical problem-solving, and continuous learning.
+
+---
+
+## 📜 Certifications
+
+- 🤖 **Machine Learning Fundamentals** — Infosys
+- 🐍 **Machine Learning with Python** — Infosys
