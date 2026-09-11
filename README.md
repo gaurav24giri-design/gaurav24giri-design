@@ -218,6 +218,36 @@ Gained practical exposure to a professional technology environment and strengthe
 
 ---
 
+## 🧠 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Advanced Python
+- 📊 Data Science & Data Analysis
+- 🧩 Data Structures & Algorithms
+- 🌐 Software Development
+
+- ---
+
+## 🎯 2026 Goals
+
+- 🚀 Build real-world AI/ML projects
+- 📚 Strengthen Data Structures & Algorithms
+- 💻 Improve Python and software development skills
+- 🤝 Contribute to open-source projects
+- 💼 Gain more industry experience through internships
+
+- ---
+
+## ⚡ Fun Fact
+
+> 💡 I believe the best way to learn technology is by building something with it.
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my GitHub profile! ✨</b>
+</p>
+
 ## 🤝 Let's Connect
 
 <p align="center">
