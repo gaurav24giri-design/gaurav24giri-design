@@ -126,3 +126,39 @@ Git & GitHub
       alt="Pac-Man Contribution Game">
   </picture>
 </p>
+---
+
+## 🧱 Breakout Contribution Game
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/breakout-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/breakout-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/breakout-contribution-graph.svg"
+      width="100%"
+      alt="Breakout Contribution Game">
+  </picture>
+</p>
+---
+
+## 🚀 Galaga Contribution Game
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/galaga-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/galaga-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/arcade-output/galaga-contribution-graph.svg"
+      width="100%"
+      alt="Galaga Contribution Game">
+  </picture>
+</p>
