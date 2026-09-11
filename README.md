@@ -266,3 +266,11 @@ Gained practical exposure to a professional technology environment and strengthe
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
+---
+
+## ©️ Copyright
+
+© 2026 Gaurav Giri. All Rights Reserved.
+
+Original design, animations, graphics, and content are my work.
+Please do not copy or reproduce without permission.
