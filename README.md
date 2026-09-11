@@ -92,6 +92,13 @@ Git & GitHub
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaurav24giri-design&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
 </p>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,git,github,vscode" />
+</p>
 
 ## 🐍 Contribution Snake
 
