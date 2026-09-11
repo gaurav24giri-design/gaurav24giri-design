@@ -72,9 +72,6 @@ I enjoy learning by building practical projects, experimenting with technologies
 
 ---
 
----
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -88,6 +85,13 @@ JavaScript
 SQL
 Git & GitHub
 ```
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaurav24giri-design&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views">
+</p>
 
 ## 🐍 Contribution Snake
 
