@@ -213,3 +213,26 @@ Gained practical exposure to a professional technology environment and strengthe
 
 - 🤖 **Machine Learning Fundamentals** — Infosys
 - 🐍 **Machine Learning with Python** — Infosys
+
+
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-giri-725143434">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gaurav24giri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Open to learning, collaboration, internships, and exciting technology opportunities.
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
