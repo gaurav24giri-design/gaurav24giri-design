@@ -1,0 +1,28 @@
+name: Generate Arcade Games
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Arcade Games
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          game: breakout
+
+      - name: Push Breakout to breakout-output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: breakout-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
