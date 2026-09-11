@@ -108,12 +108,21 @@ Git & GitHub
 
 ---
 
+---
+
 ## 🎮 Pac-Man Contribution Game
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/output/pacman.svg"
-    width="100%"
-    alt="Pac-Man Contribution Game"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/pacman-output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/pacman-output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/pacman-output/pacman-contribution-graph.svg"
+      width="100%"
+      alt="Pac-Man Contribution Game">
+  </picture>
 </p>
