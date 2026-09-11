@@ -105,3 +105,15 @@ Git & GitHub
 <p align="center">
   <img src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
+
+---
+
+## 🎮 Pac-Man Contribution Game
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gaurav24giri-design/gaurav24giri-design/output/pacman.svg"
+    width="100%"
+    alt="Pac-Man Contribution Game"
+  />
+</p>
