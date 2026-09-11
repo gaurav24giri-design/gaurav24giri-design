@@ -162,3 +162,27 @@ Git & GitHub
       alt="Galaga Contribution Game">
   </picture>
 </p>
+---
+
+## 🚀 Featured Projects
+
+### 📘 Facebook Clone Website
+
+A responsive Facebook-inspired website clone built to practice frontend web development and user interface design. This project recreates the look and structure of a social media platform with a clean and organized layout.
+
+#### ✨ Features
+
+- 📱 Responsive website layout
+- 🏠 Facebook-style homepage interface
+- 👤 User profile and navigation sections
+- 🎨 Clean and modern UI
+- 💻 Structured HTML and CSS
+- 📂 Organized project structure
+
+#### 🛠️ Technologies Used
+
+`HTML` `CSS`
+
+#### 🔗 Project
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gaurav24giri-design/fb-clone-website)
